@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAqVqFN82xbLlTvzyYTSsn08W5azON0Ssdc",
+  apiKey: "AIzaSyAqVQfN82xblLLTvzYTSsnO8W5azON0sSdc",
   authDomain: "mech-bay-129fb.firebaseapp.com",
   projectId: "mech-bay-129fb",
   storageBucket: "mech-bay-129fb.firebasestorage.app",
